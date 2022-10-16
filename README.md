@@ -1,4 +1,4 @@
-# random_app
+# 🎲 random_app
 🎲 Some random stuff that are pretty much useless but was fun to make :>
 
 
